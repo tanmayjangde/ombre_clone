@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "428255334250",
+    "project_id": "livestrm-606e2",
+    "storage_bucket": "livestrm-606e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428255334250:android:67ff0ad16f2127553a5f13",
+        "android_client_info": {
+          "package_name": "com.tanmayj.livestream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428255334250-pmble2nonkn5s5iihun4g0rt2co910s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanmayj.livestream",
+            "certificate_hash": "58048d6f2ca52243bd5dbfb84d27bd0bbabebb7c"
+          }
+        },
+        {
+          "client_id": "428255334250-45auasq9ks96flcttc4h5a8h0tipmo66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEpTAmpBDN2RBKuvdz_4bdpHNicW1ewvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428255334250-45auasq9ks96flcttc4h5a8h0tipmo66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "428255334250-vv4it0o8327j7balhsk8scfalv4ru09k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tanmayj.livestream"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428255334250:android:6f168dd7dd8eeb133a5f13",
+        "android_client_info": {
+          "package_name": "com.tanmayj.livestream.live_stream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428255334250-qmopqmj73psjkunabdr7s6rdafbeqm6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanmayj.livestream.live_stream",
+            "certificate_hash": "58048d6f2ca52243bd5dbfb84d27bd0bbabebb7c"
+          }
+        },
+        {
+          "client_id": "428255334250-45auasq9ks96flcttc4h5a8h0tipmo66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEpTAmpBDN2RBKuvdz_4bdpHNicW1ewvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428255334250-45auasq9ks96flcttc4h5a8h0tipmo66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "428255334250-vv4it0o8327j7balhsk8scfalv4ru09k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tanmayj.livestream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
